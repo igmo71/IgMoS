@@ -13,4 +13,6 @@ builder.AddProject<Projects.IgMoS_Web>("webfrontend")
     .WithReference(apiService)
     .WaitFor(apiService);
 
+builder.AddProject<Projects.IgMoS_WMS>("igmos-wms");
+
 builder.Build().Run();

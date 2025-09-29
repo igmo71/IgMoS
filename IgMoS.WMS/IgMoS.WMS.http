@@ -1,0 +1,6 @@
+@IgMoS.WMS_HostAddress = http://localhost:5270
+
+GET {{IgMoS.WMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

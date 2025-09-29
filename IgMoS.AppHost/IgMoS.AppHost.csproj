@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\IgMoS.ApiService\IgMoS.ApiService.csproj" />
     <ProjectReference Include="..\IgMoS.Web\IgMoS.Web.csproj" />
+    <ProjectReference Include="..\IgMoS.WMS\IgMoS.WMS.csproj" />
   </ItemGroup>
 
   <ItemGroup>

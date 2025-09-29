@@ -4,4 +4,5 @@
   <Project Path="IgMoS.ServiceDefaults/IgMoS.ServiceDefaults.csproj" />
   <Project Path="IgMoS.Tests/IgMoS.Tests.csproj" />
   <Project Path="IgMoS.Web/IgMoS.Web.csproj" />
+  <Project Path="IgMoS.WMS/IgMoS.WMS.csproj" />
 </Solution>
