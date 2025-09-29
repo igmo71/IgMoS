@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="IgMoS.ApiService/IgMoS.ApiService.csproj" />
+  <Project Path="IgMoS.AppHost/IgMoS.AppHost.csproj" />
+  <Project Path="IgMoS.ServiceDefaults/IgMoS.ServiceDefaults.csproj" />
+  <Project Path="IgMoS.Tests/IgMoS.Tests.csproj" />
+  <Project Path="IgMoS.Web/IgMoS.Web.csproj" />
+</Solution>
